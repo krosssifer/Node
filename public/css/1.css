@@ -1,5 +1,5 @@
 body{
-    background: gray;
+    background: rgb(255, 0, 0);
     font-size:14pt;
 }
 .form{
@@ -13,7 +13,7 @@ body{
 
 .main-content {
     flex: 1;
-    background-color: #fff;
+    background-color: #5a0000;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -33,7 +33,7 @@ table {
 
 td, th {
     border: none;
-    background: wheat; 
+    background: rgb(255, 197, 89); 
     padding: 10px; 
 
 }
